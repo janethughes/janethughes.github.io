@@ -1,0 +1,25 @@
+body {
+	font-family: helvetica; sans serif;
+	background-color: #E8EEE8;	
+}
+
+h1 {
+	font-size: 48 px;
+	color: #555354;
+	;
+}
+
+h2 {
+	font-size: 36 px;
+	color: #354235;
+}
+
+h3 {
+	font-size: 30 px;
+	color: #354235;
+}
+
+p {
+	font-size: 14 px
+	color: #555354;
+}
