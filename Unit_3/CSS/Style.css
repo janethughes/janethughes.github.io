@@ -1,10 +1,12 @@
 body {
 	font-family: helvetica; sans serif;
+	
+	background-image: url(https://flic.kr/p/YGDRaJ);
 	background-color: #E8EEE8;	
 }
 
 h1 {
-	font-size: 48 px;
+	font-size: 48px;
 	color: #555354;
 	;
 }
