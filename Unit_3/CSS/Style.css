@@ -1,5 +1,5 @@
 body {
-	font-family: helvetica; sans serif;
+	font-family: helvetica, sans serif;
 	
 	background-image: url(https://flic.kr/p/YGDRaJ);
 	background-color: #E8EEE8;	
@@ -8,7 +8,6 @@ body {
 h1 {
 	font-size: 48px;
 	color: #555354;
-	;
 }
 
 h2 {
@@ -19,11 +18,11 @@ h2 {
 }
 
 h3 {
-	font-size: 30 px;
+	font-size: 30px;
 	color: #354235;
 }
 
 p {
-	font-size: 14 px
+	font-size: 14px;
 	color: #555354;
 }
