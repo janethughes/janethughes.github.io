@@ -1,7 +1,7 @@
 body {
 	font-family: helvetica, sans serif;
-	
-	background-image: url(https://flic.kr/p/YGDRaJ);
+	background-image: url(../Images/burnedoutcar.jpg); 
+	background-repeat: no-repeat;
 	background-color: #E8EEE8;	
 }
 
