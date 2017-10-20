@@ -1,6 +1,7 @@
 body {
 	font-family: helvetica, sans serif;
-	background-image: url(../Images/burnedoutcar.jpg); 
+	
+	background-size: width;
 	background-repeat: no-repeat;
 	background-color: #E8EEE8;	
 }
