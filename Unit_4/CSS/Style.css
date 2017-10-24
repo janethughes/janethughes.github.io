@@ -17,7 +17,8 @@ h3 {
 }
 
 h1 {
-	font-size: 4em;
+		font-family: Cabin, sans;
+		font-size: 4em;
 	color: #555354;
 }
 
