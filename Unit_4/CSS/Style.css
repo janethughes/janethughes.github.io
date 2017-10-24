@@ -1,9 +1,5 @@
-<style>
-@import url('https://fonts.googleapis.com/css?family=Cabin|Source+Code+Pro');
-</style>
-
 body {
-	font-family: 'Source Code Pro', sans serif;
+	font-family: "Source Code Pro", sans serif;
 	font-weight: normal;
 	font-size: 18px;
 	background-size: width;
@@ -11,36 +7,67 @@ body {
 	background-color: #E8EEE8;	
 }
 
-h1
-h2
-h3 {
+h1,h2,h3,h4,h5 {
 	font-family: Cabin, sans;
+	color: #354235;
+	width: 30em;
+}
 
+h2, h3, h4, h5 {
+	letter-spacing: 0.1em;
 }
 
 h1 {
-		font-family: Cabin, sans;
-		font-weight: bold;
-		font-size: 4em;
-		color: #555354;
+	font-family: Cabin, sans;
+	font-weight: normal;
+	font-size: 4em;
 }
 
 h2 {
-	font-size: 3.5em;
-	margin: auto;
-	text-align: center;
-	padding: 300px;
-	color: #354235;
+	font-size: 1.5em;
+	font-style: italic;
+	margin-bottom: 1px;
+	width: 300px;
 }
 
 h3 {
 	font-size: 2.5em;
-	color: #354235;
+	margin-bottom: 1px;
+}
+
+h4 {
+	font-size: 1.8em;
+	line-height: 2em;
+	margin-bottom: 1px;
+}
+
+h5 {
+	font-size: 1.3em;
+	font-weight: bold;
+	letter-spacing: 0.2em;
 }
 
 p {
+	width: 30em;
+	line-height: 1.5em;
+	margin-bottom: 2px;
 	font-family: "Source Code Pro", sans serif;
-	font-weight: Regular;
+	font-weight: normal;
 	font-size: 1em;
 	color: #555354;
+}
+
+li {
+	font-family: "Source Code Pro", sans serif;
+	font-weight: normal;
+	line-height: 1.5em;
+	color: #555354;
+	width: 30em;
+}
+
+a {
+	text-decoration: none;
+	border-bottom: 1px solid #354235;
+	color: #354235;
+	padding-bottom: 1px;
 }
