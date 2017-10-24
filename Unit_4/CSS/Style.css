@@ -9,8 +9,14 @@ body {
 	background-color: #E8EEE8;	
 }
 
-h1 {
+h1
+h2
+h3 {
 	font-family: Cabin, sans;
+
+}
+
+h1 {
 	font-size: 4em;
 	color: #555354;
 }
@@ -29,7 +35,7 @@ h3 {
 }
 
 p {
-	font-family: 'source+code+pro', sans serif;
+	font-family: Source+Code+Pro, sans serif;
 	font-size: 1em;
 	color: #555354;
 }
