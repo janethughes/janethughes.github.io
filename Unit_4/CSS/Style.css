@@ -71,3 +71,9 @@ a {
 	color: #354235;
 	padding-bottom: 1px;
 }
+
+nav {
+	margin-left: 4em;
+	margin-right: 4em;	
+	text-transform: uppercase;
+}
