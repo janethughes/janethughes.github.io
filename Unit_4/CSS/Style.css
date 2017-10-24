@@ -4,6 +4,7 @@
 
 body {
 	font-family: 'Source Code Pro', sans serif;
+	font-weight: normal;
 	font-size: 18px;
 	background-size: width;
 	background-repeat: no-repeat;
@@ -19,8 +20,9 @@ h3 {
 
 h1 {
 		font-family: Cabin, sans;
+		font-weight: bold;
 		font-size: 4em;
-	color: #555354;
+		color: #555354;
 }
 
 h2 {
