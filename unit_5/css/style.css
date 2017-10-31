@@ -1,4 +1,7 @@
-* { margin:0; padding:0; box-sizing: border-box;
+* { 
+	margin:0; 
+	padding:0; 
+	box-sizing: border-box;
 }
 
 body {
@@ -20,17 +23,17 @@ h2, h3, h4, h5 {
 }
 
 h1 {
-	font-family: Cabin, sans;
+	font-family: Cabin, "sans serif";
 	font-weight: normal;
-	font-size: 4em;
+	font-size: 3em;
 	margin: 0 auto;
+	text-transform: uppercase;
 }
 
 h2 {
 	font-size: 1.5em;
-	font-style: italic;
 	margin-bottom: 1px;
-	width: 300px;
+	width: 30em;
 }
 
 h3 {
