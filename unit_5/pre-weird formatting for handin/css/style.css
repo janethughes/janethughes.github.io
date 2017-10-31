@@ -14,14 +14,12 @@
 }
 
 nav {
-	background-color: #E8C66A;
-	border: 1px black solid;
-	padding: 20px;
+	background-color: #94BFBF;
 /*	float:left;
 	display:block;*/
-	/*color: #354235;*/
+	color: #354235;
 	text-align: center;
-	/*padding: .5em;*/
+	padding: .5em;
 	text-decoration: none;
 	font-size: 1.5em;
 	text-transform: uppercase;
@@ -37,12 +35,6 @@ nav a {
 nav a:hover {
 	background-color:#69A2A2;
 	color: #94BFBF;
-}
-
-header {
-	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
 }
 
 h1,h2,h3,h4,h5 {
@@ -128,29 +120,6 @@ img {
 	/*float: right;*/
 }
 
-aside {
-	background-color: #FFC675;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-article {
-	background-color: #E89C6C;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-footer {
-	background-color: #FF957E;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-section {
-	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
-}
 /*#me {
 	display: inline-block;
 	float: left;
