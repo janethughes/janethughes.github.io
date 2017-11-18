@@ -14,19 +14,15 @@ header {
 	padding: 1% 0 2% 0.5%;
 	background-color: #94BFBF;
 	width: 100%;
-/*	margin: 0 auto;*/
 }
 
 nav {
 	color: #354235;
-	padding: 0 0.2em 0 0.2em;
 	text-decoration: none;
 	font-size: 1.3em;
 	text-transform: uppercase;
-/*	margin: 0 auto;*/
 	display: inline-block;
-	float: left;
-	text-align: right;
+	float: right;
 }
 
 nav a {
