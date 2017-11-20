@@ -124,7 +124,7 @@ img {
 }
 
 article {
-	width: 80%;
+	width: 85%;
 	display: block;
 	padding: 1%;
 	float: left;
@@ -182,6 +182,14 @@ article {
 		font-size: 2em;
 	}
 	article {
-		width: 90%;
+		width: 92%;
+	}
+}
+
+@media only screen and (max-width: 870px) {
+	nav {
+		font-size: 1em;
+		display: block;
+/*		float: left;*/
 	}
 }
