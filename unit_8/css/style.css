@@ -173,8 +173,15 @@ article {
 @media only screen and (max-width: 1060px) {
 	h1 {
 		font-size: 2.5em;
+		padding: 0.25em;
 	}
 	h2 {
 		font-size: 1.2em;
+	}
+	h3 {
+		font-size: 2em;
+	}
+	article {
+		width: 90%;
 	}
 }
