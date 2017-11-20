@@ -170,11 +170,11 @@ article {
 	display: block;
 }
 
-@media only screen and (max-width:; 1060px) {
+@media only screen and (max-width: 1060px) {
 	h1 {
 		font-size: 2.5em;
 	}
-	#header1 {
-		width: 80%;
+	h2 {
+		font-size: 1.2em;
 	}
 }
