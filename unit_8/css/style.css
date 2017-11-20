@@ -160,4 +160,9 @@ article {
 	width: 30%;
 }
 
+.writing-speaking > article {
+	width: 40%;
+	display: inline-block;
+	float: left;
+}
 
