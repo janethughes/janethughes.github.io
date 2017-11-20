@@ -115,7 +115,7 @@ main {
 	width: 63%;
 	padding: 0.5% 0 0 0.5%;
 	float: left;
-	margin:0 auto;
+	margin: 0 auto;
 
 }
 
@@ -127,7 +127,6 @@ article {
 	width: 85%;
 	display: block;
 	padding: 1%;
-	float: left;
 }
 
 #wrapper {
@@ -189,7 +188,40 @@ article {
 @media only screen and (max-width: 870px) {
 	nav {
 		font-size: 1em;
-		display: block;
-/*		float: left;*/
+	}
+}
+
+@media only screen and (max-width: 800px) {
+	h2 {
+		display: none;
+	}
+	nav {
+		float: none;
+	}
+	#header1 {
+		width: 80%;
+	}
+
+	#header2 {
+		float: none;
+	}
+	img {
+		display: none;
+	}
+	#contact {
+		display: none;
+	}
+	main {
+		width: 90%;
+	}
+	article {
+		width: 95%;
+	}
+	#writing {
+		width: 90%;
+	}
+
+	#speaking {
+		width: 90%;
 	}
 }
