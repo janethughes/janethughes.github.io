@@ -163,12 +163,15 @@ article {
 #writing {
 	width: 63%;
 	display: block;
-	float: left;
 }
 
 #speaking {
 	width: 63%;
 	display: block;
-	float: left;
 }
 
+@media only screen and (max-width 1060px) {
+	h1 {
+		font-size: 2.5em;
+	}
+}
