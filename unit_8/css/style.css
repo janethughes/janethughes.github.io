@@ -124,8 +124,9 @@ img {
 }
 
 article {
-	width: 50%;
+	width: 80%;
 	display: block;
+	padding: 1%;
 	float: left;
 }
 
