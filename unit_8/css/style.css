@@ -7,7 +7,7 @@
 body {
 	font-family: "Source Code Pro", "sans serif";
 	font-weight: normal;
-	font-size: 18px;
+	font-size: 16px;
 }
 
 header {
@@ -35,6 +35,7 @@ nav a {
 nav a:hover {
 	background-color:#69A2A2;
 	color: #94BFBF;
+	transition: background-color ease-in-out 0.5s;
 }
 
 h1,h2,h3,h4,h5 {
@@ -103,6 +104,7 @@ a {
 
 a:hover {
 	background-color: #94BFBF;
+	transition: background-color ease-in-out 0.5s;
 }
 
 img {
