@@ -199,11 +199,12 @@ article {
 		float: none;
 	}
 	#header1 {
-		width: 80%;
+		width: 90%;
 	}
 
 	#header2 {
 		float: none;
+		width: 90%;
 	}
 	img {
 		display: none;
