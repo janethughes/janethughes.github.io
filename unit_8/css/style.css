@@ -198,11 +198,8 @@ article {
 	nav {
 		float: none;
 	}
-	#header1 {
-		width: 90%;
-	}
 
-	#header2 {
+	#header1, #header2 {
 		float: none;
 		width: 90%;
 	}
@@ -217,12 +214,44 @@ article {
 	}
 	article {
 		width: 95%;
-	}
-	#writing {
-		width: 90%;
+
+}
+
+@media only screen and (max-width: 450px) {
+	
+	header {
+		padding: 0;
+		margin: 0 auto;
 	}
 
-	#speaking {
+	#header1, #header2 {
+		width: 100%;
+		text-align: center;
+	}
+
+	#wrapper {
+		width: 95%;
+	}
+
+	main, article, #writing, #speaking {
+		width: 100%;
+	}
+
+	nav {
+		font-size: 1.5em;
+	}
+
+	nav a {
 		width: 90%;
+		display: block;
+		float: none;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	h1 {
+		font-size: 2em;
 	}
 }
+
+
